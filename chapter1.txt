@@ -1,1 +1,2 @@
 this is a story for branch.
+this is a great new story.
